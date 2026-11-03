@@ -8,3 +8,5 @@ Lesson 3: CC104 Week 6 exercise
 ## Purpuse
 
 This repository is used to organize and properly arranged the contents in this file.
+
+Data strucuture algorithms filesfddfdf
